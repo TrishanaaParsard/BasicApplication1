@@ -38,9 +38,13 @@ namespace SimpleApp
             Console.WriteLine("Gender:" + Gender);
             Console.WriteLine("Date of Birth: "+ DOB);
             Console.WriteLine("Province: "+ Province);
-
+            Console.WriteLine("zzzzzzzzzzzzzzzzzzzzz");
             Console.ReadKey();
         }
+
+
+
+
 
     }
 }
