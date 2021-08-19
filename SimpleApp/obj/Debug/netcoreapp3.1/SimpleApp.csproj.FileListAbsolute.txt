@@ -1,0 +1,13 @@
+C:\Users\Zbook\Desktop\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.exe
+C:\Users\Zbook\Desktop\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.deps.json
+C:\Users\Zbook\Desktop\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.runtimeconfig.json
+C:\Users\Zbook\Desktop\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.runtimeconfig.dev.json
+C:\Users\Zbook\Desktop\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.dll
+C:\Users\Zbook\Desktop\SimpleApp\SimpleApp\bin\Debug\netcoreapp3.1\SimpleApp.pdb
+C:\Users\Zbook\Desktop\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.csproj.AssemblyReference.cache
+C:\Users\Zbook\Desktop\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.AssemblyInfoInputs.cache
+C:\Users\Zbook\Desktop\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.AssemblyInfo.cs
+C:\Users\Zbook\Desktop\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\Zbook\Desktop\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.dll
+C:\Users\Zbook\Desktop\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.pdb
+C:\Users\Zbook\Desktop\SimpleApp\SimpleApp\obj\Debug\netcoreapp3.1\SimpleApp.genruntimeconfig.cache
