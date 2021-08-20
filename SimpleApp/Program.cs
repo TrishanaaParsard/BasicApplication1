@@ -6,39 +6,40 @@ namespace SimpleApp
     {
         static void Main(string[] args)
         {
-            //Variables 
-            double ID;
-            string Surname;
-            string FirtName;
-            string Gender;
-            string DOB;
-            string Province;
+           //Statement that states what the user needs to do.
+            Console.WriteLine("Please fill in the necessary details:");
 
-            //Enter values
-            Console.Write("Enter your ID: ");
-            ID =Convert.ToDouble( Console.ReadLine());
-            Console.Write("Enter you Surname: ");
-            Surname = Console.ReadLine();
-            Console.Write("Enter your FirstName: ");
-            FirtName = Console.ReadLine();
-            Console.Write("Enter you Gender: ");
-            Gender = Console.ReadLine();
-            Console.Write("Enter you Date of Birth: ");
-            DOB = Console.ReadLine();
-            Console.Write("Enter you Province: ");
-            Province = Console.ReadLine();
+            //The following details need to be entered.
+            //Variables have been declared.
+            Console.Write("Enter First Name: ");
+            string FirstName = Console.ReadLine();
+
+            Console.Write("Enter Last Name: ");
+            string LastName = Console.ReadLine();
+
+            Console.Write("Enter ID number: ");
+            double Id = double.Parse(Console.ReadLine());
+
+            Console.Write("Enter Gender: ");
+            string Gender = Console.ReadLine();
+
+            Console.Write("Enter Phone number: ");
+            double Contact = double.Parse(Console.ReadLine());
+
+            Console.Write("Enter Email: ");
+            string Email = Console.ReadLine();
 
             //Space
             Console.WriteLine();
 
-            //Output 
-            Console.WriteLine("ID: " + ID);
-            Console.WriteLine("Surname: " + Surname);
-            Console.WriteLine("First Name: "+ FirtName);
-            Console.WriteLine("Gender:" + Gender);
-            Console.WriteLine("Date of Birth: "+ DOB);
-            Console.WriteLine("Province: "+ Province);
-            Console.WriteLine("zzzzzzzzzzzzzzzzzzzzz");
+            //Output on what the user has entered.
+            Console.WriteLine("This is the following information you have entered:");
+            Console.WriteLine("First Name: " + FirstName);
+            Console.WriteLine("Last Name: " + LastName);
+            Console.WriteLine("Id Number: " + Id);
+            Console.WriteLine("Gender: " + Gender);
+            Console.WriteLine("Contact: " + Contact); 
+            Console.WriteLine("Email: " + Email);
             Console.ReadKey();
         }
 
